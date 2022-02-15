@@ -1,3 +1,11 @@
+#realizado por :Edwar Frank Carrasco Castañeda
+#Menciòn : Tema usado del grupo "paqueteRos"
+
+library(tidyverse)
+library(remotes)
+library(extrafont)
+install_version("Rttf2pt1", version = "1.3.8")
+
 
 theme_propio2 <- function(){
   theme(
@@ -32,11 +40,6 @@ theme_propio2 <- function(){
     legend.position   = "right"
   )
 }
-
-library(tidyverse)
-library(remotes)
-library(extrafont)
-install_version("Rttf2pt1", version = "1.3.8")
 
 
 
