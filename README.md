@@ -1,2 +1,2 @@
-# Grafico_Econ_HastaPC2
+# Grafico_Notas Aprobatorias_hastaPC2
 Notas 
